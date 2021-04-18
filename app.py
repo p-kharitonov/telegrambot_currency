@@ -96,4 +96,12 @@ def get_page_symbols(page=0, max_symbols=22):
     return [text, keyboard]
 
 
+<<<<<<< Updated upstream
 bot.polling(none_stop=true interval=0)
+=======
+<<<<<<< HEAD
+bot.polling(none_stop=True, interval=0)
+=======
+bot.polling(none_stop=true interval=0)
+>>>>>>> b47a4e6a2f0e56ef54f02713cc81aa1743d01590
+>>>>>>> Stashed changes
